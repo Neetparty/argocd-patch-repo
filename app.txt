@@ -1,0 +1,4 @@
+argocd-app-name-1
+argocd-app-name-2
+argocd-app-name-3
+argocd-app-name-4
